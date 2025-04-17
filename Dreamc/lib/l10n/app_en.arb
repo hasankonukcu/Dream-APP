@@ -1,0 +1,35 @@
+{
+    "@@locale": "en",
+    "language": "English",
+    "@language": {
+        "description":"The current Language"
+    },
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+        "description": "A programmer greeting"
+    },
+    "title": "Dream Fairy",
+    "signin": "Sign In",
+    "gmail": "Login With Gmail ",
+    "facebook": "Login With Facebook",
+    "emailandpas": "Login With Email And Password",
+    "loginandsignin": "Login / Sign In",
+    "password": "Password",
+    "login": "Login",
+    "registerdescription": "Don't have an account? Sign in",
+    "logindescription": "Do you have an account? Sign up",
+    "mydreams": "My Dreams",
+    "nodreams": "No dreams have been told yet",
+    "horoscope": "Horoscope",
+    "profile": "Profile",
+    "exit": "Exit",
+    "username": "Username",
+    "surname": "Surname",
+    "job": "Job",
+    "dateofbirth": "Date Of Birth",
+    "relationshipstatus": "Relationship Status",
+    "emailadress": "Email Address",
+    "savechanges": "Save Changes"
+    
+
+}

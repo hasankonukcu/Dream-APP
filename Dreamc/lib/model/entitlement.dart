@@ -1,0 +1,2 @@
+
+enum Entitlement {free,allcourses}
