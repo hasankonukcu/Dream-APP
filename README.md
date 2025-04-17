@@ -1,6 +1,6 @@
 # Rüya Perisi - AI Powered Dream Interpretation App 🌙
 
-Discover the secrets behind your dreams with **Rüya Perisi**, an AI-powered dream interpretation app that combines ancient symbolism with modern machine learning.
+Discover the secrets behind your dreams with **Rüya Perisi**, an AI-powered spiritual companion that interprets your dreams, provides personalized tarot readings, and delivers accurate daily horoscope insights. The app blends ancient symbolism with modern machine learning to bring you a deeply intuitive experience.
 
 📲 [Download on Google Play](https://play.google.com/store/apps/details?id=com.bonjour.ruyaperisi)
 
